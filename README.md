@@ -1,12 +1,9 @@
 <div align="center">
 			
 # Welcome! 
-Hi, I’m Afua (ey-fwah) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px" /> 
-</div>
 
-I’m a software engineer focused on building **reliable, secure, and automated systems**.
-I design and ship backend services, cloud infrastructure, and internal tooling with a strong emphasis on production readiness, security, and developer experience.
-This GitHub documents my hands-on work as I build real-world systems end to end.
+Hi, I’m Afua (ey-fwah) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px" /> </div> A backend Software engineer focused on building **reliable, secure, and automated systems**.
+I work across backend services, cloud infrastructure, CI/CD, identity, and observability, with an emphasis on production readiness and clean system design.
 
 #### Feel free to message me to say hello, or to work on something together!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/afuacheampong/)](https://www.linkedin.com/in/afuacheampong/)
@@ -27,52 +24,18 @@ This GitHub documents my hands-on work as I build real-world systems end to end.
 
 ---
 
-## Core Technologies
-
-**Languages**
-- Java
-- Python
-- Bash
-
-**Backend**
-- REST APIs
-- Event-driven systems
-- Messaging and async processing
-
-**Cloud & Infrastructure**
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-
-**CI/CD**
-- GitHub Actions
-- Jenkins
-
-**Security**
-- IAM
-- OAuth2, OIDC, SAML
-- Secrets management
-- Policy as code
-
-**Observability**
-- Metrics, logs, tracing
-- Grafana
-- Prometheus
-- OpenTelemetry
+## Core Stack
+**Languages:** Java, Python, Bash  
+**Cloud & Infra:** AWS, Docker, Kubernetes, Terraform  
+**CI/CD:** GitHub Actions, Jenkins  
+**Security:** IAM, OAuth2, OIDC, SAML  
+**Observability:** Grafana, Prometheus, OpenTelemetry  
 
 ---
 
-## Featured Projects
-
-Each repository in this profile represents a complete system, not a tutorial.
-
-Every project includes:
-- Architecture decisions
-- Infrastructure code
-- CI/CD pipelines
-- Security considerations
-- Documentation
+## How This GitHub Is Structured
+Each repository represents a **complete system**, not a tutorial.
+Every project includes architecture decisions, infrastructure code, CI/CD, security considerations, and production-grade documentation.
 
 ---
 
@@ -82,16 +45,6 @@ Every project includes:
 - AWS Solutions Architect Associate
 - Kubernetes fundamentals
 - Security and IAM fundamentals
-
----
-
-## How I Work
-
-- Design before implementation
-- Infrastructure as code
-- Automation over manual processes
-- Security by default
-- Production-grade documentation
 
 ---
 
